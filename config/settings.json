@@ -1,6 +1,6 @@
 {
-    "cartTitle": "CLOTH",
-    "cartDescription": "expressCart",
+    "cartTitle": "Vojūra",
+    "cartDescription": "Maisto prekės ir kita",
     "cartLogo": "",
     "baseUrl": "http://localhost:1111",
     "emailHost": "smtp-mail.outlook.com",
@@ -17,15 +17,15 @@
     "googleAnalytics": "",
     "injectJs": "",
     "customCss": "",
-    "currencySymbol": "£",
+    "currencySymbol": "€",
     "paymentGateway": "stripe",
     "databaseConnectionString": "mongodb://127.0.0.1:27017/expresscart",
     "theme": "Cloth",
     "trackStock": false,
     "orderHook": "",
     "availableLanguages": [
-        "en",
-        "it"
+        "lt",
+        "en"
     ],
     "defaultLocale": "en",
     "maxQuantity": 25,
